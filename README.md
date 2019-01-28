@@ -28,7 +28,7 @@ You also need to customise index header, header, and footer from 'templates', to
 If some nodes in your XML file have different names, you can change the code to suit your needs. 
 
 Author
------_
+-------
 
 Andrey Yashurin
 
